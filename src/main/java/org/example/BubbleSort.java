@@ -1,3 +1,4 @@
+package org.example;
 public class BubbleSort {
 
     // Function to perform bubble sort
